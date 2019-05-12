@@ -5,7 +5,7 @@ def is_get_guessed_word(l):
   Returns 
   """
 print ("letter_is_in_word)
-print(is_word_gugessed(secret_word, letteers_guessed))
+print(is_word_guessed(secret_word, letters_guessed))
 return()
 
     """ 
@@ -17,7 +17,7 @@ return()
   if is_letter(l):
     print(l, "you got it")
   else:
-    print get available_lettters(letters_guessed)
+    print get available_letters(letters_guessed)
   
     
   
