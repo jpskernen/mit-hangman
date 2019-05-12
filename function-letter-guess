@@ -1,0 +1,23 @@
+#function devinition and formal parameter
+def is_get_guessed_word(l):
+  """
+  Input: l, a guessed letter
+  Returns 
+  """
+print ("letter_is_in_word)
+print(is_word_gugessed(secret_word, letteers_guessed))
+return()
+
+    """ 
+    #get guessed word
+ def is_get_guessed_word(word):
+  """
+  Input:import string, word from doc
+  returns: guess_a_letter
+  if is_letter(l):
+    print(l, "you got it")
+  else:
+    print get available_lettters(letters_guessed)
+  
+    
+  
