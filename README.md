@@ -5,3 +5,5 @@ The user is given a certain number of guesses at the beginning. The user inpur\t
 The copmuter revewlas the letter if it exists in the secret word. 
 The user is penalized and the computer updates the number of guesses remaning. 
 The game ends when either the user guesses the secret word, or the user runs out of guesses. 
+# motivation
+This is part of my journey to teach myself python. 
