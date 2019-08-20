@@ -1,16 +1,14 @@
+WORDLIST_FILENAME = "words.txt"
 import random
 import string
-
-WORDLIST_FILENAME = "words.txt"
 
 def loadWords():
     """
     Returns a list of valid words. Words are strings of lowercase letters.
-    
-    words.txt contains 55,900 words, this function may
+    WORDLIST_FILENAME contains 55,900 words, this function may
     take a while to finish.
     """
-      print "Loading word list from file..."
+    print ("Loading word list from file. Please be patient...")
     # inFile: file
     inFile = open(WORDLIST_FILENAME, 'r', 0)
     # line: string
